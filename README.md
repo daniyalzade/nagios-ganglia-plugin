@@ -21,7 +21,7 @@ Dependencies
 
 Issues
 ------
-Please report issues via [github issues](https://github.com/daysleeper/nagios-ganglia-plugin/issues)
+Please report issues via [github issues](https://github.com/daysleeper/nagios-ganglia-plugin/issues) or via @daniyalzade
 
 
 To Do
